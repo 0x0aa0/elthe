@@ -1,1 +1,7 @@
-TestContract:testBar() (gas: 401)
+SwapTest:testExecuteOffer() (gas: 127973)
+SwapTest:testExecuteOfferRevertAllowance() (gas: 81371)
+SwapTest:testExecuteOfferRevertCanceled() (gas: 80066)
+SwapTest:testExecuteOfferRevertExpired() (gas: 56693)
+SwapTest:testExecuteOfferRevertNonce() (gas: 146977)
+SwapTest:testExecuteOfferRevertProof() (gas: 56201)
+SwapTest:testExecuteOfferRevertSignature() (gas: 53783)
